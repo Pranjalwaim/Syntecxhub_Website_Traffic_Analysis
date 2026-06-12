@@ -54,13 +54,13 @@ Syntecxhub_Website_Traffic_Analysis/
 └── README.md
 ```
 ## 📸 Dashboard Preview
-![Overview](overview.png)
+![Overview](Overview.png)
 ![Traffic_Sources](Traffic_Sources.png)
 ![Audience_Insights](Audience_Insights.png)
 ![Page_Performance](Page_Performance.png)
 ## 🚀 How to Use
 
-1. Open `Cleaned_traffic_analysis.ipynb` to view the data cleaning and exploratory analysis process.
+1. Open `notebooks/Cleaned_traffic_analysis.ipynb` to view the data cleaning and exploratory analysis process.
 2. Open `dashboard/Website_Traffic_Analysis.pbix` in Power BI Desktop to explore the interactive dashboard.
 
 ---

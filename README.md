@@ -63,6 +63,7 @@ Syntecxhub_Website_Traffic_Analysis/
 1. Open `notebooks/Cleaned_traffic_analysis.ipynb` to view the data cleaning and exploratory analysis process.
 2. Open `dashboard/Website_Traffic_Analysis.pbix` in Power BI Desktop to explore the interactive dashboard.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pranjalwaim)
 ---
 
 *This project was completed as part of the Syntecxhub Data Analyst Internship Program.*
